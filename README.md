@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HEROSAMA666
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning c,c++,java
+- 🌱 I’m currently learning c,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ins:HEROSAMA
 
