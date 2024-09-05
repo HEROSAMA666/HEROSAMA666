@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HEROSAMA666
+- 👋 Hi, I’m @HEROSAMA
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning c,c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on "Me wants a GF"
 - 📫 How to reach me ins:HEROSAMA  Discord:herosama YT:https://www.youtube.com/@herosama1570
 
 <!---
